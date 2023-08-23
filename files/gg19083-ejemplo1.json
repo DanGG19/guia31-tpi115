@@ -1,0 +1,11 @@
+ ejemplo1=JSON.parse('{
+	"fichero": {
+		"ficha": {
+			"nombre": "Daniel Alexis",
+			"apellido": "García",
+			"direccion": "Col San Martín Pasaje 4",
+			"_id": "13181",
+			"_fechaingreso": "17/02/2019"
+		}
+	}
+}
