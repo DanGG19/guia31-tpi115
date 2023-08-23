@@ -1,0 +1,46 @@
+var ejercicio2b=JSON.parse{
+	"pais": {
+		"moneda": "Dolar $",
+		"codtelefono": "+503",
+		"idioma": [
+			{
+				"idiomaoficial": "Español Latino",
+				"_oficial": "Español Latino"
+			},
+			{
+				"idiomaautoctono": "Náhuat",
+				"_autoctono": "Náhuat"
+			},
+			{
+				"idiomasegundo": "Lenca",
+				"_segundo": "Lenca"
+			}
+		],
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "Cojutepeque",
+				"habitantes": "231,480",
+				"altura": "920 MSNM",
+				"_id": "2",
+				"_nombre": "Cuscatlan"
+			},
+			{
+				"cabecera": "San Vicente",
+				"areaterritorial": "267,25 km²",
+				"lugarturistico": "La laguna de apastepeque",
+				"habitantes": "161,645",
+				"altura": "390 MSNM",
+				"_id": "3",
+				"_nombre": "San Vicente"
+			}
+		],
+		"_nombre": "El Salvador"
+	}
+}

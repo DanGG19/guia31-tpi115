@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="gg19083-ejercicio1a.css"?>
+<!-- ejercicio1a.xml  GG19083 -->
+<fichero>
+<ficha id="13181" fechaingreso="17/02/2019">
+<nombre>Daniel Alexis</nombre>
+<apellido>García</apellido>
+<direccion>Col San Martín Pasaje 4</direccion>
+</ficha>
+
+<ficha id="213181" fechaingreso="17/02/2019">
+<nombre>Daniel Alexis</nombre>
+<apellido>García Gómez</apellido>
+<edad>23</edad>
+<altura>173cm</altura>
+<peso>65kg</peso>
+<telefono>70075259</telefono>
+<email>gg19083@ues.edu.sv</email>
+<website>https://twitter.com/Lexter37</website>
+<direccion>Col San Martín Pasaje 4</direccion>
+</ficha>
+</fichero>

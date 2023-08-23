@@ -1,0 +1,37 @@
+var ejercicio2a=JSON.parse{
+	"pais": {
+		"moneda": "Dolar $",
+		"codtelefono": "+503",
+		"idioma": [
+			{
+				"idiomaoficial": "Español Latino",
+				"_oficial": "Español Latino"
+			},
+			{
+				"idiomaautoctono": "Náhuat",
+				"_autoctono": "Náhuat"
+			},
+			{
+				"idiomasegundo": "Lenca",
+				"_segundo": "Lenca"
+			}
+		],
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "Cojutepeque",
+				"habitantes": "231,480",
+				"altura": "920 MSNM",
+				"_id": "2",
+				"_nombre": "Cuscatlan"
+			}
+		],
+		"_nombre": "El Salvador"
+	}
+}

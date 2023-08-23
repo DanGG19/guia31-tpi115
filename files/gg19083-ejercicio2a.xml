@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+<?xml-stylesheet type="text/css" href="gg19083-ejercicio2a.css"?>
+<!-- ejemplo2.xml  GG19083 -->
+<pais nombre="El Salvador">
+<moneda>Dolar $</moneda>
+<codtelefono>+503</codtelefono>
+<idioma oficial="Español Latino">
+<idiomaoficial>Español Latino</idiomaoficial>
+</idioma>
+<idioma autoctono="Náhuat">
+<idiomaautoctono>Náhuat</idiomaautoctono>
+</idioma>
+<idioma segundo="Lenca">
+<idiomasegundo>Lenca</idiomasegundo>
+</idioma>
+<departamento id="1" nombre="San Salvador">
+<cabecera>San Salvador</cabecera>
+<habitantes>1,700,000</habitantes>
+<altura>545 MSNM</altura>
+</departamento>
+
+<departamento id="2" nombre="Cuscatlan">
+<cabecera>Cojutepeque</cabecera>
+<habitantes>231,480</habitantes>
+<altura>920 MSNM</altura>
+</departamento>
+</pais>

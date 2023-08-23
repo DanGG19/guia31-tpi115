@@ -1,0 +1,11 @@
+fichero {background-color:gainsboro;}
+ficha {background-color:cornflowerblue; display:block;} 
+nombre {color:black; display:inline;} 
+apellido {color:rgb(21, 21, 2); display:inline;}
+edad {color:rgb(61, 86, 74);font-size:1cm; display:inline;}
+altura {color:rgb(61, 86, 74);font-size:1cm; display:inline;}
+peso {color:rgb(61, 86, 74);font-size:1cm; display:inline;}
+telefono {color:rgb(61, 86, 74);font-size:1cm; display:inline;}
+email {color:rgb(61, 86, 74);font-size:1cm; display:inline;}
+website {color:rgb(61, 86, 74);font-size:1cm; display:inline;}
+direccion {color:rgb(61, 86, 74);font-size:1cm; display:inline;}

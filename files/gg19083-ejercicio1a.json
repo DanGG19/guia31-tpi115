@@ -1,0 +1,26 @@
+var ejercicio1a=JSON.parse{
+	"fichero": {
+		"ficha": [
+			{
+				"nombre": "Daniel Alexis",
+				"apellido": "García",
+				"direccion": "Col San Martín Pasaje 4",
+				"_id": "13181",
+				"_fechaingreso": "17/02/2019"
+			},
+			{
+				"nombre": "Daniel Alexis",
+				"apellido": "García Gómez",
+				"edad": "23",
+				"altura": "173cm",
+				"peso": "65kg",
+				"telefono": "70075259",
+				"email": "gg19083@ues.edu.sv",
+				"website": "https://twitter.com/Lexter37",
+				"direccion": "Col San Martín Pasaje 4",
+				"_id": "213181",
+				"_fechaingreso": "17/02/2019"
+			}
+		]
+	}
+}
