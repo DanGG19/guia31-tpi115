@@ -1,0 +1,6 @@
+/* gg19083-ejemplo1.css   gg19083  */
+fichero {background-color:blue;}
+ficha {background-color:red; display:block;} 
+nombre {color:white; display:inline;} 
+apellido {color:yellow; display:inline;}
+direccion {color:rgb(66, 202, 134);font-size:1cm; display:inline;}
